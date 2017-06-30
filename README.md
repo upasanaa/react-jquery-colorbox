@@ -1,2 +1,8 @@
-# react-jquery-colorbox
-A simple reactjs app with jquery &amp; jquey-colorbox.
+# react-jquery-colorbox-example
+
+After cloning/downloading code, run following :
+1. npm install
+2. npm run build
+3. npm start
+
+go to localhost://8080
